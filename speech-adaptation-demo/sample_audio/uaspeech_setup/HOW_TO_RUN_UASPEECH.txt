@@ -1,0 +1,23 @@
+UA-Speech setup complete.
+
+1) RUN THE APP (Phase 2 recommended)
+   cd speech-adaptation-demo
+   python app_phase2.py
+
+2) IN THE APP
+   - Create a profile (e.g. Illinois_M16) or use existing.
+   - Demo tab: In 'Built-in Demo Audio', choose a file from uaspeech_<SpeakerID> folder.
+   - Open uaspeech_setup/uaspeech_<SpeakerID>_vocab.txt and paste its contents into 'Custom Vocabulary'.
+   - Paste the single word (or phrase) for that file into 'Ground Truth' (see _files.txt for path->word).
+   - Click 'Run Pipeline'. Then use Continual Learning to submit corrections for wrong words.
+
+3) FILES CREATED
+   - uaspeech_<ID>_vocab.txt           -> paste into Custom Vocabulary.
+   - uaspeech_<ID>_files.txt          -> full path and word for each WAV.
+   - uaspeech_<ID>_basename_to_word.txt -> filename -> word (for Ground Truth lookup).
+   - sample_audio/uaspeech_<ID>/      -> WAVs listed in Built-in Demo Audio.
+   - sample_audio/uaspeech_<ID>_pseudo_sentences/ -> pseudo-sentence WAVs and .txt transcripts.
+
+4) VERIFICATION
+   - Run 5-10 different WAVs from one speaker; add corrections where ASR is wrong.
+   - Check Analytics tab and 'Generate Thesis Export' for WER tables and figures.

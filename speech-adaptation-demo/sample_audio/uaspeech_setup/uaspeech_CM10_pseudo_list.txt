@@ -1,0 +1,120 @@
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW6_M8.wav	GREYHOUND
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW90_M5.wav	CARROT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW8_M5.wav	YOU
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW19_M8.wav	THEY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW45_M8.wav	SHE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW15_M8.wav	MISSOURI
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW44_M6.wav	WHICH
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_LP_M7.wav	PAPA
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW28_M7.wav	BY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW45_M5.wav	SHE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW52_M8.wav	ADULATION
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW75_M8.wav	MORGANTOWN
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW35_M8.wav	WE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW46_M8.wav	DO
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW74_M8.wav	JUDITH
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW30_M6.wav	BUT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW51_M3.wav	MULTIFLORA
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW6_M5.wav	IN
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_C16_M5.wav	UPWARD
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW55_M5.wav	MANY
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_D3_M7.wav	THREE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW3_M7.wav	FAYETTEVILLE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_C16_M6.wav	UPWARD
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW95_M3.wav	COME
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW63_M5.wav	CLERGYMAN
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW48_M6.wav	PERPETUAL
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW94_M8.wav	FEATHER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_D0_M6.wav	ZERO
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW83_M7.wav	TREE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW17_M3.wav	WITH
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW40_M3.wav	THERE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW97_M6.wav	WATCH
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW9_M8.wav	THAT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW87_M5.wav	ITS
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW31_M3.wav	SHOUT
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW18_M5.wav	HIS
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW46_M3.wav	SOUTHEASTERLY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW11_M3.wav	HE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_LL_M7.wav	LIMA
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW45_M3.wav	BELEAGUERING
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW4_M8.wav	A
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW8_M6.wav	YOU
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_D5_M6.wav	FIVE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW5_M3.wav	TO
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW20_M5.wav	VOUCHSAFE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW47_M6.wav	BEQUEATH
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW2_M6.wav	FAITHFULNESS
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW72_M3.wav	CONVULSION
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW38_M6.wav	CAN
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_D1_M7.wav	ONE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW41_M7.wav	USE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_C4_M3.wav	ENTER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW15_M7.wav	ARE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW1_M5.wav	THE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW66_M8.wav	INTO
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW79_M5.wav	MY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW89_M8.wav	FIND
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW22_M3.wav	PROTEGE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW18_M7.wav	NODULE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW53_M3.wav	ADVICE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW97_M6.wav	MAY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW94_M5.wav	GET
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW68_M5.wav	CELEBRITY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW10_M7.wav	IT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW12_M7.wav	WAS
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW36_M7.wav	THOU
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW14_M8.wav	ON
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW65_M7.wav	BUTTERFLIES
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW10_M3.wav	IROQUOIS
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW100_M3.wav	YES
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW20_M7.wav	ADJACENT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW91_M3.wav	ORANGE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW62_M6.wav	CHOKING
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW41_M5.wav	YALE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW31_M7.wav	SHOUT
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW87_M7.wav	CAR
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW45_M3.wav	LEGISLATURE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW87_M6.wav	DRUM
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW30_M7.wav	APOTHECARY
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW36_M3.wav	WHEN
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW94_M7.wav	FEATHER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW99_M3.wav	OH
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW46_M3.wav	DO
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW7_M5.wav	HANGER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW40_M5.wav	THERE
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_LN_M6.wav	NOVEMBER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW73_M6.wav	SEE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_C4_M7.wav	ENTER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_UW41_M6.wav	INALIENABLE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_UW42_M8.wav	BATTLEMENTS
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_CW52_M8.wav	OTHER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW94_M7.wav	GET
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW74_M5.wav	NUMBER
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW34_M3.wav	WERE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_C5_M6.wav	TAB
+---
+D:\research\data\UASpeech\audio\original\CM10\CM10_B1_CW75_M5.wav	NO
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW60_M5.wav	BROWBEAT
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_CW87_M3.wav	ITS
+D:\research\data\UASpeech\audio\original\CM10\CM10_B2_D1_M6.wav	ONE
+D:\research\data\UASpeech\audio\original\CM10\CM10_B3_UW77_M3.wav	NAUSEA
+---

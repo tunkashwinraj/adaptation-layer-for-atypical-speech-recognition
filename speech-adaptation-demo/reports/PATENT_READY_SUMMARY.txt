@@ -1,0 +1,8 @@
+Patent-ready full build completed.
+Speakers: CF02, CF03, CF04, CM04, CM05, CM06, CM08, CM09, CM10, CM12, CM13, F02, F03, F04, M01, M04, M05, M06, M07, M08, M09, M10, M11, M12, M13, M14, M15, M16
+Profiles: 28 (Illinois_<ID>)
+Total audio files in app: 1921
+Manifest: C:\Users\Ashwin Raj\PycharmProjects\ResearchProto\speech-adaptation-demo\reports\patent_build_manifest.json
+
+Launch the app: python app_phase2.py
+Select any Illinois_<ID> profile; Custom Vocabulary auto-fills. Choose audio and run pipeline.
